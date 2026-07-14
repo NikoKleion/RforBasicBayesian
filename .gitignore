@@ -1,0 +1,20 @@
+# R session junk
+.RData
+.Rhistory
+.Rproj.user/
+
+# local test data, not part of the project
+test_data.xlsx
+
+# optional helper scripts, kept local but not in the repo
+01_init_design.R
+03_area.R
+plot_points.R
+points.csv
+Noah YSP first print.jpg
+
+# output files written each run
+bo_suggestion.txt
+bo_history.csv
+next_settings.csv
+starter_prints.csv

@@ -1,0 +1,10 @@
+name,lower,upper,integer
+Layer Height (mm),0.1,0.3,0
+Wall Thickness (mm),0.4,1.6,0
+Horizontal Expansion (mm),-0.1,0.2,0
+Top Thickness (mm),0.4,1.2,0
+Bottom Thickness (mm),0.4,1.2,0
+Infill Density,0.1,0.4,0
+Printing Temperature (C),190,220,1
+Build Plate Temperature (C),50,70,1
+Print Speed (mm/s),30,80,1
